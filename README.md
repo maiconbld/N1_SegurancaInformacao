@@ -1,7 +1,7 @@
 # 🔐 TCP Client-Server com Diffie-Hellman e Teste de Primalidade
 
 ---
-Integrantes: Maicon Dias; Thiago Guedes; Pedro Henrike
+Integrantes: Maicon Dias; Pedro Henrike; Thiago Guedes
 ---
 Este projeto implementa uma comunicação **Cliente-Servidor utilizando Sockets TCP em Python**, aplicando:
 
